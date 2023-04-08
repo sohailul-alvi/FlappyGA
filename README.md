@@ -1,4 +1,6 @@
-# FlappyGA: Real-Time Multiplayer Browser Game with FPGA Control Input
+# **FlappyGA**: *Online Multiplayer Game with FPGA Controller*
+
+https://user-images.githubusercontent.com/94545356/230737011-26cba116-370b-4b01-83af-2d9ee04ef162.mp4
 
 ## Description
 
